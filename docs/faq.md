@@ -27,7 +27,7 @@ A: You’ll get a notification or request through the system once a cooperative 
 **Q2: How do I confirm delivery?**
 A: After delivery, log in and mark the request as “Delivered” in your supplier portal.
 
-### :question: For Extension Officers
+### For Extension Officers
 
 **Q1: Can I update reports offline?**
 A: Yes. The mobile app stores data locally and syncs it once internet is available.
@@ -36,7 +36,7 @@ A: Yes. During field reporting, you can upload photos, voice notes, or type note
 **Q3: How are reports used?**
 A: Reports are stored in the system and visible to cooperatives for making decisions about maintenance or retrieval.
 
-### :question: General
+### General
 
 **Q: What if I forget my password?**
 A: Use the “Forgot Password” option on the login screen to reset it via SMS.
