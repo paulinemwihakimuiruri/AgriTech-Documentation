@@ -20,3 +20,10 @@ Machinery lending record management
 Field reporting by extension officers
 
 AgriTech aims to bring accountability and data-driven decision making into modern agriculture.
+
+
+Explore the following sections:
+- [User Guide](user_guide.md)
+- [FAQ](faq.md)
+- [AI Component](ai_component.md)
+- [Technical Overview](technical_overview.md)
