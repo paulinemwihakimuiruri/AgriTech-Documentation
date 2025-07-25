@@ -7,8 +7,11 @@ Many farmers struggle to access farming machines on time due to manual processes
 ### Supported users
 
 **Farmers**- They can request for machines from cooperatives and make payments .
+
 **Cooperatives**- They manage machine orders, make payments to machine suppliers, tracking of machines, and lending machines to farmers.
+
 **Extension Officers**- They conduct field visits and update machine conditions.
+
 **Machine Suppliers**- They receive machine requests from cooperatives and supply to them.
 
 ### Key features overview
@@ -26,4 +29,3 @@ Explore the following sections:
 - [User Guide](user_guide.md)
 - [FAQ](faq.md)
 - [AI Component](ai_component.md)
-- [Technical Overview](technical_overview.md)
