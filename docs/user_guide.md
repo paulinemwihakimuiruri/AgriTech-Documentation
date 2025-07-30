@@ -18,7 +18,8 @@ This section outlines how each of our users interact with AgriTech platform, fro
 6. Receive the machine and begin use.
 
 <div style="display: flex; gap: 10px; justify-content: start;">
-<img src="Images/psignup screen.png" alt="Step 1" width="150"  />
+<img src="Images//Farmer signup.png" alt="Step 1" width="150"  />
+<img src="Images/signup screen.png" alt="Step 1" width="150"  />
 <img src="Images/farmer.png" alt="Step 2" width="150"  />
 <img src="Images/farmer (1).png" alt="Step 3" width="150"  />
 <img src="Images/Group 221.png" alt="Step 3" width="150"  />
@@ -66,6 +67,8 @@ This section outlines how each of our users interact with AgriTech platform, fro
 4. Deliver the machine and mark it as "delivered".
 5. Receive payment from the cooperative.
 
+![Dashboard](Images/Supplier%20dashboard.png)
+
 ## Extension Officers
 
 ### Key Actions:
@@ -85,10 +88,12 @@ This section outlines how each of our users interact with AgriTech platform, fro
 6. Submit field report
 7. Reports are synced to the system and visible to cooperatives.
 
-<div style="display: flex; gap: 10px; justify-content: start;">
+<div style="display: flex; gap: 50px; justify-content: start;">
+<img src="Images/SIGNUP SCREEN.png" alt="Step 1" width="150"  />
 <img src="Images/signup screen.png" alt="Step 1" width="150"  />
 <img src="Images/Home Request Farmers ProfileHome Request Farmers Profile.png" alt="Step 2" width="150"  />
 <img src="Images/iPhone 16 Pro Max - 82.png" alt="Step 3" width="150"  />
+<img src="Images/iPhone 16 Pro Max - 82 (1).png" alt="Step 1" width="150"  />
 </div>
 
 ## Notes
