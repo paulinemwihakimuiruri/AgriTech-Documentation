@@ -1,4 +1,7 @@
-**AgriTech** is a digital platform that focuses on helping small holder farmers access agricultural machinery in Rwanda. The main purpose is to digitize cooperatives in Rwanda and by this we will increase farmers productivity. The system connects four core personas: **Farmers, Cooperative Managers, Extension Officers and Machine Suppliers**. It also provides a centralized way to manage machine requests, payments, tracking and maintenance reporting.
+
+![AgriTech Logo](Images/Group%2039.png)
+
+**AgriTech** is a comprehensive agricultural support app designed to streamline equipment lending and management for four key user groups: **Cooperatives**, **Farmers**, **Machine Suppliers**, and **Extension Officers**. Leveraging IoT technology and real-time tracking, AgriTech optimizes resource sharing, enhances operational transparency, and supports agricultural productivity.
 
 ### Purpose of AgriTech
 

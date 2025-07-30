@@ -17,6 +17,14 @@ This section outlines how each of our users interact with AgriTech platform, fro
 5. Once notified, **make payment**
 6. Receive the machine and begin use.
 
+<div style="display: flex; gap: 10px; justify-content: start;">
+<img src="Images/psignup screen.png" alt="Step 1" width="150"  />
+<img src="Images/farmer.png" alt="Step 2" width="150"  />
+<img src="Images/farmer (1).png" alt="Step 3" width="150"  />
+<img src="Images/Group 221.png" alt="Step 3" width="150"  />
+</div>
+
+
 ## Cooperative Officers
 
 ### Key Actions:
@@ -39,6 +47,8 @@ This section outlines how each of our users interact with AgriTech platform, fro
 8. Record the machine in the system and assign it to the requesting farmer.
 9. Monitor **machine location and condition reports** in real-time.
 10. Receive alerts if a machine exits its geofenced area.
+
+![Dashboard](Images/Admin%20dashboard.png)
 
 ## Machine Suppliers
 
@@ -74,6 +84,12 @@ This section outlines how each of our users interact with AgriTech platform, fro
 5. Update machine status: Working, Needs Maintenance, Broken, etc.
 6. Submit field report
 7. Reports are synced to the system and visible to cooperatives.
+
+<div style="display: flex; gap: 10px; justify-content: start;">
+<img src="Images/signup screen.png" alt="Step 1" width="150"  />
+<img src="Images/Home Request Farmers ProfileHome Request Farmers Profile.png" alt="Step 2" width="150"  />
+<img src="Images/iPhone 16 Pro Max - 82.png" alt="Step 3" width="150"  />
+</div>
 
 ## Notes
 

@@ -13,10 +13,13 @@ Rather than relying on manual judgment or random choices, the AI system analyzes
 
 1. **Data Collection**
    The system gathers real-time and historical data from machine records, supplier logs, feedback reports, and IoT tracking history.
+
 2. **Evaluation Model**
    A lightweight AI model (Agentic AI) processes this data to rank suppliers based on machine quality, field performance, and overall reliability.
+
 3. **Recommendation**
    When a cooperative receives a farmer’s request, the AI suggests the top 1–3 suppliers most likely to meet quality, speed, and reliability needs.
+   
 4. **Learning Over Time**
    The more data it gathers, the smarter the system gets. For example, if one supplier’s machines consistently break down or arrive late, their ranking is adjusted accordingly.
 
